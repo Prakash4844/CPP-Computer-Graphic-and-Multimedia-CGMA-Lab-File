@@ -5,8 +5,10 @@ All the codes are tested and are working.
 
 Repo contain some additional code.
 
+<p align="center">
+  <img width="" height="" src="Home/INDEX.jpg">
+</p>
 
-<center><img src="Home/INDEX.jpg"></center>
 
 
 # Graphics library setup 
@@ -17,7 +19,9 @@ Repo contain some additional code.
 git clone https://github.com/ullaskunder3/graphics.h-project-template.git
 ```
 
-Detail setup can be found on my other repo [solution-to-graphics.h](https://github.com/ullaskunder3/Solution-to-graphics.h)
+Detail setup can be found on my other repo [solution-to-graphics.h](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
+
+Article by [sagargoswami2001](https://github.com/sagargoswami2001)
 
 ## My directory look like
 
